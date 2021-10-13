@@ -1,1 +1,1 @@
-# java-course-template
+# merge sort (сортировка слиянием)
